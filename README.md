@@ -30,19 +30,19 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <!-- <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
-<img align="left" alt="Git" width="32" src="https://github.com/pejmanS21/pejmanS21/blob/main/images/git.ico" />
+<img align="left" alt="Git" width="48" src="https://github.com/pejmanS21/pejmanS21/blob/main/images/git.ico" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="jupyter" width="29" src="./images/Jupyter_logo.png" />
-<img align="left" alt="colab" width="60" src="./images/colab.png" />
-<img align="left" alt="Tensorflow" width="35" src="./images/tf.png" />
-<img align="left" alt="keras" width="80" src="./images/PyTorch.png" />
-<img align="left" alt="numpy" width="80" src="./images/numpy_logo_icon_168073.ico" />
-<img align="left" alt="pandas" width="80" src="./images/pandas.png" />
-<img align="left" alt="sklearn" width="80" src="./images/sklearn.png" />
+<img align="left" alt="jupyter" width="45" src="./images/Jupyter_logo.png" />
+<img align="left" alt="colab" width="70" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
+<img align="left" alt="Tensorflow" width="50" src="./images/tf.png" />
+<img align="left" alt="keras" width="100" src="./images/pytorch_logo_icon_169823.png" />
+<img align="left" alt="numpy" width="100" src="./images/numpy_logo_icon_168073.ico" />
+<img align="left" alt="ubuntu" width="60" src="./images/ubuntu.ico" />
 
 
 <br />
 <br />
+
+![Pejman's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmanS21&theme=dracula&show_icons=true)
