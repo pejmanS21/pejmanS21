@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 <img align="left" alt="colab" width="70" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
 <img align="left" alt="Tensorflow" width="50" src="./images/tf.png" />
 <img align="left" alt="keras" width="100" src="./images/pytorch_logo_icon_169823.png" />
-<img align="left" alt="numpy" width="100" src="./images/numpy_logo_icon_168073.ico" />
+<!-- <img align="left" alt="numpy" width="100" src="./images/numpy_logo_icon_168073.ico" /> -->
 <img align="left" alt="ubuntu" width="60" src="./images/ubuntu.ico" />
 
 
 <br />
 <br />
 
-![Pejman's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmanS21&theme=dracula&show_icons=true)
+![Pejman's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmanS21&theme=shades-of-purple&show_icons=true)
