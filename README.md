@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!-- <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
 <img align="left" alt="Git" width="48" src="https://github.com/pejmanS21/pejmanS21/blob/main/images/git.ico" />
 
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<!-- <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
 
 <img align="left" alt="jupyter" width="45" src="./images/Jupyter_logo.png" />
 <img align="left" alt="colab" width="70" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
