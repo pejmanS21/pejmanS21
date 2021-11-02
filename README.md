@@ -75,7 +75,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![Pejman's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmanS21&theme=shades-of-purple&show_icons=true)
+![Pejman's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmanS21&theme=gotham&show_icons=true)
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmanS21&hide=jupyter%20notebook&theme=shades-of-purple&langs_count=10&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmanS21&hide=jupyter%20notebook&theme=shades-of-purple&langs_count=10&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmanS21&hide=jupyter%20notebook&theme=gotham&langs_count=10&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmanS21&hide=jupyter%20notebook&theme=gotham&langs_count=10&layout=compact)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pejmanS21" alt="pejmanS21" /> </p>
