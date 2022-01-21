@@ -10,7 +10,7 @@ class PejmanS21:
         self.username = 'pejmanS21'
         self.name = 'Pejman Samadi'
         self.email = 'pezhmansamadi21@gmail.com'
-        self.linkedin = 'https://www.linkedin.com/in/pejman-samadi-b412391b5/'
+        self.linkedin = 'https://www.linkedin.com/in/pejman-samadi/'
         self.portfolio = 'https://pezhmansamadi21.wixsite.com/portfolio'
         self.kaggle = 'https://www.kaggle.com/pezhmansamadi'
         self.interests = ['Artificial Intelligence', 'Computer Vision', 'NLP']
