@@ -1,7 +1,7 @@
-## Hi there I'm `Pejman` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there I'm `Pejman` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<h3> About me </h3>
+<h2 align='center'> About me </h2>
 
 >**I'm a self-learner AI developer, passionate about ai and learning new things.**
 * I currently work as a Machine Learning Engineer at AiMedic.
@@ -11,7 +11,8 @@
 
 <center>
 
-## Connect with `me`
+<!-- ## Connect with `me` -->
+<h2 align='center'> Connect with <mark>me<mark></h2>
 
 <div align='center'>
     <a href='mailto:pezhmansamadi21@gmail.com'>
@@ -33,8 +34,8 @@
 </br>
 
 
-## Languages and Tools
-
+<!-- ## Languages and Tools -->
+<h2 align='center'> Languages and Tools</h2>
 <!-- Technologies -->
 <div align='center'>
     <img src='https://img.shields.io/badge/-Python-333333?logo=python&style=for-the-badge'>
@@ -52,13 +53,24 @@
     <img src='https://img.shields.io/badge/-html-333333?logo=html5&logoColor&style=for-the-badge'>
     
 </div>
+<br/>
 
-<br />
-<br />
+<!-- Resume -->
+<h2 align='center'> Resume</h2>
+<div align='center'>
+    <a href='https://drive.google.com/file/d/1EKR1PmYFN0NjtMzZANSTAxomKHA5WQ82/view?usp=sharing'>
+        <img src='https://img.shields.io/badge/-Pejman--Resume-06403A?logo=googledrive&logoColor=0FF25E&style=for-the-badge'>
+    </a>
+</div>
 
-![Pejman's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmanS21&theme=gruvbox&show_icons=true)
+<br/>
 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmanS21&hide=jupyter%20notebook&theme=gruvbox&langs_count=10&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmanS21&hide=jupyter%20notebook&theme=gotham&langs_count=10&layout=compact)
+<div align='center'>
+    <a href='https://github.com/pejmanS21'>
+        <img src='https://github-readme-stats.vercel.app/api?username=pejmanS21&theme=gruvbox&show_icons=true'></br>
+        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=pejmanS21&hide=jupyter%20notebook&theme=gruvbox&langs_count=10&layout=compact'></br>
+    </a>
+</div>
+<br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pejmanS21" alt="pejmanS21" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pejmanS21" alt="pejmanS21"/> </p>
