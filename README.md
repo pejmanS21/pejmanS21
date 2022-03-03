@@ -1,18 +1,16 @@
 # Hi there I'm `Pejman` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<h2 align='center'> About me </h2>
+<h2 align='center'> 🙋‍♂️ About me </h2>
 
->**I'm a self-learner AI developer, passionate about ai and learning new things.**
-* I currently work as a Machine Learning Engineer at AiMedic.
-* also I was an intern at Upkey.
+I'm a self-taught AI developer, passionate about ai and learning new things. I'm currently working as part of the MLOPs team in AIMedic. I have experience with *Python*, *Pytorch*, *Tensorflow*, Backend frameworks like *Flask* and *FastAPI*, and tools like *Docker*.Also, I was an intern at Upkey.
 
 <br/>
 
 <center>
 
 <!-- ## Connect with `me` -->
-<h2 align='center'> Connect with <mark>me<mark></h2>
+<h2 align='center'> 📞 Connect with <mark>me<mark></h2>
 
 <div align='center'>
     <a href='mailto:pezhmansamadi21@gmail.com'>
@@ -35,7 +33,7 @@
 
 
 <!-- ## Languages and Tools -->
-<h2 align='center'> Languages and Tools</h2>
+<h2 align='center'> 👨‍💻 Languages and Tools</h2>
 <!-- Technologies -->
 <div align='center'>
     <img src='https://img.shields.io/badge/-Python-333333?logo=python&style=for-the-badge'>
@@ -56,7 +54,7 @@
 <br/>
 
 <!-- Resume -->
-<h2 align='center'> Resume</h2>
+<h2 align='center'> 📄 Resume</h2>
 <div align='center'>
     <a href='https://drive.google.com/file/d/1EKR1PmYFN0NjtMzZANSTAxomKHA5WQ82/view?usp=sharing'>
         <img src='https://img.shields.io/badge/-Pejman--Resume-06403A?logo=googledrive&logoColor=0FF25E&style=for-the-badge'>
