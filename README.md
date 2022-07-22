@@ -1,5 +1,4 @@
-# Hi there I'm `Pejman` 👋
-
+![Header](./images/github-header-image.png)
 
 <h2 align='center'> 🙋‍♂️ About me </h2>
 
