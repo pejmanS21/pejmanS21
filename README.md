@@ -112,9 +112,9 @@ I can speak Persian, English, and a little Spanish.
 
 <div align='center'>
     <a href='https://github.com/pejmanS21'>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pejmanS21&hide=jupyter%20notebook&theme=onedark&langs_count=10&layout=compact&hide_border=true" align="left" style="width: 100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pejmanS21&hide=jupyter%20notebook&theme=onedark&langs_count=10&layout=compact&hide_border=true" align="center" style="width: 40%" />
     </a>
-</div>
+</div> 
 
 
 <br/>  
