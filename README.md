@@ -93,13 +93,29 @@ I can speak Persian, English, and a little Spanish.
 <br/>
 
 ## Github Stats 
-<div align='center'>
+<!-- <div align='center'>
     <a href='https://github.com/pejmanS21'>
         <img src='https://github-readme-stats.vercel.app/api?username=pejmanS21&theme=onedark&count_private=true&show_icons=true&hide_border=true'></br>
         <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=pejmanS21&hide=jupyter%20notebook&theme=onedark&langs_count=10&layout=compact&hide_border=true'></br>
     </a>
-</div>
+</div> -->
   
+<table><tr><td valign="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pejmanS21&theme=onedark&count_private=true&show_icons=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pejmanS21&hide=jupyter%20notebook&theme=onedark&langs_count=10&layout=compact&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pejmans21&theme=onedark&count_private=true&theme=onedark&hide_border=true" align="left" style="width: 100%" />
+
+</td>
+</tr></table>  
+
+
 <br/>  
 
 <div align="center">
