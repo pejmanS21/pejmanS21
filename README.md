@@ -1,3 +1,5 @@
+<img width="200px" align="right" src="https://freight.cargo.site/t/original/i/5373f99b065b576539167e65918b92ebd6b3b9ddbb97c22457af1262f3c74a44/source.gif"/>
+
 # 👨‍💻 About Me:
 I'm a self-taught AI developer, passionate about AI and learning new things. I'm currently working as part of the MLOPs team in AIMedic. I have experience with Python, Pytorch, Tensorflow, Backend frameworks like Flask and FastAPI, and tools like Docker.<br>I like challenges, so I started to learn Swift by myself recently. I can speak Persian, English, and a little Spanish.<br>🕊️ I’m currently learning Swift
 <br>💬 Ask me about AI, ML & MLOps
