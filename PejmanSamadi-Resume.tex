@@ -1,0 +1,235 @@
+%------------------------
+% Author : Pejman Samadi
+% Github : https://github.com/pejmans21
+%------------------------
+
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+	\vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+	\item\small{
+		\textbf{#1}{: #2 \vspace{-2pt}}
+	}
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+	\item\small{
+		{\vspace{-2pt}}
+	}
+}
+
+\newcommand{\resumeSubheading}[4]{
+	\vspace{-1pt}\item
+	\begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+		\textbf{#1} & #2 \\
+		\textit{#3} & \textit{#4} \\
+	\end{tabular*}\vspace{-5pt}
+}
+
+
+\usepackage{xcolor}
+\hypersetup{
+	colorlinks,
+	linkcolor={red!50!black},
+	citecolor={blue!50!black},
+	urlcolor={blue!80!black}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+	\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+	\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+
+\begin{document}
+	
+	%----------HEADING-----------------
+	\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+		\textbf{{\huge Pejman Samadi}} \vspace{5pt} \\ 
+		Email: \href{mailto:pezhmansamadi21@gmail.com}{~~~~pezhmansamadi21@gmail.com}\\
+		Portfolio:
+		\href{http://pejmans21.github.io}{pejmans21.github.io} & Mobile: +989124220335~~~~~~ \\
+		GitHub:
+		\href{https://github.com/pejmans21}
+		{~~github.com/pejmans21} &
+		LinkedIn: \href{https://www.linkedin.com/in/pejman-samadi/}{ in/pejman-samadi}
+	\end{tabular*}
+	
+	%-----------EXPERINCE-----------------
+	\section{Experience}
+	\resumeSubHeadingListStart
+	\resumeSubheading{DevOps/MLOps Engineer}{Tehran, Iran}
+	{AiMedic (Full-time)}{Mar 2022 - Present}
+	\resumeItemListStart
+	
+	\resumeItem{CI/CD}
+	{Designed and implemented CI/CD pipelines using \textbf{GitLab-CI} for multiple projects, reducing deployment time by 30\%.}
+	\vspace{1pt}
+	
+	\resumeItem{Infrastructure as a Code}
+	{Utilized \textbf{Ansible} for configuration management and automation of infrastructure tasks, resulting in improved efficiency and reliability of the infrastructure.}
+	\vspace{1pt}
+	
+	\resumeItem{Docker}
+	{Dockerize Python, AI, Back-End, and Front-End projects.}
+	
+	\resumeItem{MLOps}
+	{Worked closely with data scientists and ML engineers to deploy machine learning models in production using TensorFlow and Docker.}
+	\vspace{1pt}
+	
+	\resumeItem{Labeling}
+	{Developing a Python package to handle data pipelines designed for communication with \textbf{XNAT}, a tool for labeling medical data.}
+	\vspace{1pt}
+	
+	\resumeItem{Monitoring}
+	{Monitoring service requests, resource usage, and logs using tools such as \textit{Grafana}, \textit{Prometheus}, and \textit{Loki}.}
+	\vspace{-10pt}
+	
+	\resumeItem{Development Platform}
+	{Acted as the GitLab administrator for the company, responsible for maintaining and updating the system to ensure optimal performance and functionality.}
+	\vspace{1pt}
+	
+	\resumeItemListEnd
+
+	\vspace{1pt}
+
+	\resumeSubheading
+	{ML/MLOps Engineer}{Tehran, Iran}
+	{AiMedic (Part-time)}{Nov 2021 -  Mar 2022}
+	\resumeItemListStart
+	
+	\resumeItem{AI developer}
+	{Develop an AI model to detect lung in CXR images.}
+	\vspace{1pt}
+	
+	\resumeItem{Back-End developer}
+	{Working w/ Back-End Web Development tools like FastAPI \& Flask.}
+	
+	\resumeItemListEnd
+	
+	\vspace{1pt}
+	
+	\resumeSubheading
+	{Summer Internship}{Chicago, US}
+	{Upkey (Internship)}{Jul 2021 -  Sep 2021}
+	\resumeItemListStart
+	
+	\item Soft Skills
+	\vspace{-5pt}
+	\item Entrepreneurship 
+	\vspace{-5pt}
+	\item Digital Marketing
+	
+	\resumeItemListEnd
+	\resumeSubHeadingListEnd
+	
+	%-----------EDUCATION-----------------
+	\section{Education}
+	\resumeSubHeadingListStart
+	
+	\resumeSubheading
+	{University of Tehran}{Tehran, Iran}
+	{Master of Business Administration - MBA}{Sep 2022 - Present}
+	
+	\vspace{2pt}
+	
+	\resumeSubheading
+	{Iran University of Science and Technology}{Tehran, Iran}
+	{Bachelor of Engineering - Electrical and Electronics Engineering}{Sep 2017 - Sep 2022}
+	
+	\resumeSubHeadingListEnd
+	\vspace{-3pt}
+
+	%-----------SKILS-----------------
+	\section{Skills Summary}
+	\resumeSubHeadingListStart
+	\resumeSubItem{Languages}{~~~~~~Python, Swift, Bash}
+	\resumeSubItem{Frameworks}{~~ TensorFlow, PyTorch, FastAPI, Flask}
+	\resumeSubItem{Tools}{~~~~~~~~~~~~~~Kubernetes, Docker, Git, Gitlab-CI, GitHub Actions, Ansible, SQLite}
+	\resumeSubItem{Platforms}{~~~~~~~Linux, MacOS}
+	\resumeSubItem{Soft Skills}{~~~~~~~Problem-Solving, Writing, Time Management}
+	
+	\resumeSubHeadingListEnd
+	
+	\vspace{-3pt}
+	
+	%-----------PROJECTS-----------------
+	\section{Projects}
+	\resumeSubHeadingListStart
+	\resumeSubItem{\href{https://github.com/pejmanS21/LS-Fastapi}{LS-Fastapi (Tensorflow, FastAPI, DVC, Docker, Kubernetes)}}
+	{An AI model for lung segmentation in CXR images, deploying with FastAPI. $|$ Use DVC for data version control, and dockerizing web-app. $|$ Deploy projects w/ K8s.}	
+	
+	\resumeSubItem{\href{https://github.com/pejmanS21/FaceRecognition_Django}{FaceRecognition\_Django (PyTorch, Django, Docker)}}
+	{A FaceRecognition module written with facenet\_pytorch. $|$ Use Django as the web framework. $|$ Dockerized project.}	
+	
+	\vspace{2pt}
+
+	\resumeSubHeadingListEnd
+	\vspace{-5pt}	
+
+	%-----------CERTIFICATES-----------------	
+	\section{Certificates}
+	\resumeSubHeadingListStart
+	\resumeSubheading
+	{\href{https://coursera.org/verify/ZNW9LRTQ3RCK}{Programming Fundamentals in Swift}}{Coursera}
+	{Swift Programming $|$ iOS App Development}{}
+	\vspace{1pt}
+
+	\resumeSubheading
+	{\href{https://coursera.org/verify/3EM2DANDTPFH}{Version Control}}{Coursera}
+	{Version Control $|$ Bash (Unix Shell)}{}
+	\vspace{1pt}
+	
+	\resumeSubheading
+	{\href{https://courses.cognitiveclass.ai/certificates/ec992440901c40c49b9dab687e5970d7}{Introduction to Containers, Kubernetes, and OpenShift V2}}{Cognitive Class}
+	{Kubernetes $|$ OpenShift V2}{}
+	\vspace{1pt}
+	
+	\resumeSubheading
+	{\href{https://quera.org/certificate/ICpPDqCP/}{TASK-ORIENTED COURCE IN LINUX}}{Quera}
+	{Linux $|$ Bash (Unix Shell)}{}
+	\vspace{1pt}
+	
+	\resumeSubHeadingListEnd
+	
+\end{document}
